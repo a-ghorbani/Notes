@@ -28,4 +28,7 @@ https://en.wikipedia.org/wiki/Stan_%28software%29
 
 http://www.mrc-bsu.cam.ac.uk/software/bugs/
 
+## Bayesian optimisation
+
+sequential decision-making under uncertainity
 
