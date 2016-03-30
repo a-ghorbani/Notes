@@ -1,4 +1,10 @@
-
+## Introduction
+* H2O is open-source software for big-data analysis.
+* Mathematical leadership Arno Candel.
+* Candel (with 19 others) was named to the first class of "Big Data All Stars" by Fortune in 2014.
+* H2O has been ranked the number one open-source Java machine learning project by GitHub members.
+* *Scientific advisory council*:  Stephen P. Boyd, Robert Tibshirani and Trevor Hastie
+* H2O.ai clients include Cisco, eBay, Nielsen, and PayPal.
 
 ## Why h2o
 
@@ -40,3 +46,9 @@ http://www.h2o.ai/product/algorithms/
 * Multi-Model Scoring
 
 
+## Big data approach
+* The H2O software provides data structures and methods suitable for big data.
+* Iterative methods:
+  * When we cannot wait for (optimal) solution, we can interrupt and use an approximate solution
+  * H2O (in DL) divides all the data into subsets and then analyzing each subset simultaneously using the same method, then parameters are estimated by using the Hogwild scheme (a parallel stochastic gradient method).
+  * These methods allow H2O to provide answers that use all the client's data, rather than throwing away most of it.
