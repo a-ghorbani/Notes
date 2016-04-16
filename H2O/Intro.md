@@ -1,3 +1,12 @@
+## Why I'd like to work with H2O
+* easy to use
+* works with small data
+* works with big data
+* it is fast
+* it is easily scalable 
+ * increase your data
+ * increase resources
+
 ## Introduction
 * H2O is open-source software for big-data analysis.
 * Mathematical leadership Arno Candel.
