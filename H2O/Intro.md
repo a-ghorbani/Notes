@@ -1,4 +1,4 @@
-## Why I'd like to work with H2O
+## Why like to work with H2O
 * easy to use
 * works with small data
 * works with big data
